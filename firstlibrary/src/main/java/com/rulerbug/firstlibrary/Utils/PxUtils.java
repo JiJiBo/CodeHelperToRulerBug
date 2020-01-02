@@ -2,7 +2,7 @@ package com.rulerbug.firstlibrary.Utils;
 
 import static com.rulerbug.firstlibrary.Utils.BugApp.getContext;
 
-public class pxUtils {
+public class PxUtils {
     public static int getDimension(int id) {
         return getContext().getResources().getDimensionPixelSize(id);
     }

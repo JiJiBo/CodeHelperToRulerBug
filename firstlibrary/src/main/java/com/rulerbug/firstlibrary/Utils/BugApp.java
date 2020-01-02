@@ -1,12 +1,8 @@
 package com.rulerbug.firstlibrary.Utils;
 
-import android.app.Activity;
 import android.content.Context;
 import android.content.res.ColorStateList;
 import android.os.Handler;
-import android.view.View;
-
-import java.util.Stack;
 
 
 public class BugApp {
